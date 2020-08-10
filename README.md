@@ -1,2 +1,2 @@
-# PythonAssignment01
-This is the assignment for first week of DLCVNLP classes
+# PythonAssignment
+This is the assignment for the given week of DLCVNLP classes
